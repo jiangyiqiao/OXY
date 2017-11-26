@@ -22,5 +22,5 @@
  * GitHub地址：https://github.com/maicss/PyQt5-Chinese-tutoral
  
  #### 软件设计界面界面
-![main_Window](./image/main_Window.png)
-![result_Window](./image/result_Window.png)
+![main_Window](./images/main_Window.png)
+![result_Window](./images/result_Window.png)

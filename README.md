@@ -11,7 +11,8 @@
  1. 语言：python3
  2. 软件界面设计：PyQt5
  3. 代码编辑平台：eric6、PyCharm
- 4. 开发平台环境配置：
+ 4. 数据库：SQLite
+ 5. 开发平台环境配置：
 * http://blog.csdn.net/weiaitaowang/article/details/52045360
 * http://blog.csdn.net/a359680405/article/details/45074761
   

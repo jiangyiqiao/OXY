@@ -10,8 +10,17 @@
     <height>362</height>
    </rect>
   </property>
+  <property name="font">
+   <font>
+    <family>微软雅黑</family>
+   </font>
+  </property>
   <property name="windowTitle">
-   <string>Dialog</string>
+   <string>病人眼底图信息</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>icons/patient.icns</normaloff>icons/patient.icns</iconset>
   </property>
   <property name="sizeGripEnabled">
    <bool>true</bool>

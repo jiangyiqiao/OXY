@@ -16,7 +16,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>OXYoung</string>
   </property>
   <property name="windowIcon">
    <iconset>
@@ -535,8 +535,8 @@
      </property>
      <property name="font">
       <font>
-       <family>Arial</family>
-       <pointsize>8</pointsize>
+       <family>微软雅黑</family>
+       <pointsize>9</pointsize>
       </font>
      </property>
     </column>
@@ -546,8 +546,8 @@
      </property>
      <property name="font">
       <font>
-       <family>Arial</family>
-       <pointsize>8</pointsize>
+       <family>微软雅黑</family>
+       <pointsize>9</pointsize>
       </font>
      </property>
     </column>
@@ -557,8 +557,8 @@
      </property>
      <property name="font">
       <font>
-       <family>Arial</family>
-       <pointsize>8</pointsize>
+       <family>微软雅黑</family>
+       <pointsize>9</pointsize>
       </font>
      </property>
     </column>
@@ -568,8 +568,8 @@
      </property>
      <property name="font">
       <font>
-       <family>Arial</family>
-       <pointsize>8</pointsize>
+       <family>微软雅黑</family>
+       <pointsize>9</pointsize>
       </font>
      </property>
     </column>
@@ -579,8 +579,8 @@
      </property>
      <property name="font">
       <font>
-       <family>Arial</family>
-       <pointsize>8</pointsize>
+       <family>微软雅黑</family>
+       <pointsize>9</pointsize>
       </font>
      </property>
     </column>
@@ -588,26 +588,50 @@
      <property name="text">
       <string>住院ID</string>
      </property>
+     <property name="font">
+      <font>
+       <family>微软雅黑</family>
+      </font>
+     </property>
     </column>
     <column>
      <property name="text">
       <string>会诊记录</string>
+     </property>
+     <property name="font">
+      <font>
+       <family>微软雅黑</family>
+      </font>
      </property>
     </column>
     <column>
      <property name="text">
       <string>创建时间</string>
      </property>
+     <property name="font">
+      <font>
+       <family>微软雅黑</family>
+      </font>
+     </property>
     </column>
     <item row="0" column="0">
      <property name="text">
       <string/>
      </property>
-     <property name="font">
-      <font>
-       <family>微软雅黑</family>
-       <pointsize>6</pointsize>
-      </font>
+    </item>
+    <item row="0" column="1">
+     <property name="text">
+      <string/>
+     </property>
+    </item>
+    <item row="1" column="0">
+     <property name="text">
+      <string/>
+     </property>
+    </item>
+    <item row="1" column="1">
+     <property name="text">
+      <string/>
      </property>
     </item>
    </widget>

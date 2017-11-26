@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0180fa4-9291-45d5-adbf-309c5c2e9b05" name="Default" comment="" />
+    <list default="true" id="6f7a63bc-2e0e-4bbe-8df8-686f643a2150" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pre_imageProgress.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_eric6project/OXY.e4q" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_eric6project/OXY.e6t" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/血氧软件开发方案.docx" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OXY.e4p" afterPath="$PROJECT_DIR$/OXY.e4p" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OXY.py" afterPath="$PROJECT_DIR$/OXY.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OXY.ui" afterPath="$PROJECT_DIR$/OXY.ui" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PatientInfo.py" afterPath="$PROJECT_DIR$/PatientInfo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/icons/main.qrc" afterPath="$PROJECT_DIR$/icons/main.qrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_Window.ui" afterPath="$PROJECT_DIR$/result_Window.ui" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sqlconnection.py" afterPath="$PROJECT_DIR$/sqlconnection.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,95 +24,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/OXY$sqlconnection.coverage" NAME="sqlconnection Coverage Results" MODIFIED="1511595924127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OXY$add_moreMessage.coverage" NAME="add_moreMessage Coverage Results" MODIFIED="1511595344548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OXY$result_Window.coverage" NAME="result_Window Coverage Results" MODIFIED="1511619980922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OXY$Ui_OXY.coverage" NAME="Ui_OXY Coverage Results" MODIFIED="1511595202954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OXY$Ui_add_moreMessage.coverage" NAME="Ui_add_moreMessage Coverage Results" MODIFIED="1511594857319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OXY$OXY.coverage" NAME="OXY Coverage Results" MODIFIED="1511619451266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OXY$ui_mainwindow.coverage" NAME="ui_mainwindow Coverage Results" MODIFIED="1511577831420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OXY.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OXY.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PatientInfo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PatientInfo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sqlconnection.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sqlconnection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="e#1#40#0" expanded="true" />
-                <marker date="1511619416533" expanded="true" signature="636:739" ph="create table... person" />
-                <marker date="1511619416533" expanded="true" signature="759:807" ph="insert into person... " />
-                <marker date="1511619416533" expanded="true" signature="827:880" ph="insert into person... " />
-                <marker date="1511619416533" expanded="true" signature="900:948" ph="insert into person... " />
-                <marker date="1511619416533" expanded="true" signature="968:1023" ph="insert into person... " />
-                <marker date="1511619416533" expanded="true" signature="1043:1098" ph="insert into person... " />
-                <marker date="1511619416533" expanded="true" signature="1119:1432" ph="create table... offices" />
-                <marker date="1511619416533" expanded="true" signature="1453:1745" ph="insert into offices... " />
-                <marker date="1511619416533" expanded="true" signature="1765:2105" ph="insert into offices... " />
-                <marker date="1511619416533" expanded="true" signature="2125:2466" ph="insert into offices... " />
-                <marker date="1511619416533" expanded="true" signature="2486:2808" ph="insert into offices... " />
-                <marker date="1511619416533" expanded="true" signature="2828:3154" ph="insert into offices... " />
-                <marker date="1511619416533" expanded="true" signature="3174:3467" ph="insert into offices... " />
-                <marker date="1511619416533" expanded="true" signature="3488:3542" ph="create table... images" />
-                <marker date="1511619416533" expanded="true" signature="3562:3609" ph="insert into images... " />
-                <marker date="1511619416533" expanded="true" signature="3629:3680" ph="insert into images... " />
-                <marker date="1511619416533" expanded="true" signature="3700:3750" ph="insert into images... " />
-                <marker date="1511619416533" expanded="true" signature="3770:3819" ph="insert into images... " />
-                <marker date="1511619416533" expanded="true" signature="3839:3888" ph="insert into images... " />
-                <marker date="1511619416533" expanded="true" signature="3908:3958" ph="insert into images... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="result_Window.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/result_Window.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <SUITE FILE_PATH="coverage/OXY$sqlconnection.coverage" NAME="sqlconnection Coverage Results" MODIFIED="1511692370960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OXY$Ui_PatientInfo.coverage" NAME="Ui_PatientInfo Coverage Results" MODIFIED="1511692328528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OXY$Ui_OXY.coverage" NAME="Ui_OXY Coverage Results" MODIFIED="1511692317876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OXY$Ui_result_Window.coverage" NAME="Ui_result_Window Coverage Results" MODIFIED="1511692324784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/__init__.py" />
-        <option value="$PROJECT_DIR$/add_moreMessage.py" />
-        <option value="$PROJECT_DIR$/Ui_OXY.py" />
-        <option value="$PROJECT_DIR$/OXY.py" />
-        <option value="$PROJECT_DIR$/PatientInfo.py" />
-        <option value="$PROJECT_DIR$/sqlconnection.py" />
-        <option value="$PROJECT_DIR$/result_Window.py" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -106,13 +38,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="221" />
-    <option name="y" value="34" />
-    <option name="width" value="1018" />
-    <option name="height" value="687" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="39" />
+    <option name="y" value="42" />
+    <option name="width" value="1134" />
+    <option name="height" value="669" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -146,12 +77,6 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\LearnPyQt5\OXY" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,25 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.result_Window">
-    <configuration name="OXY" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="OXY" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OXY.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.sqlconnection">
     <configuration name="Ui_OXY" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,14 +102,14 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="OXY" />
+      <module name="new_OXY" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ui_OXY.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="add_moreMessage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Ui_PatientInfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -213,14 +120,14 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="OXY" />
+      <module name="new_OXY" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/add_moreMessage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ui_PatientInfo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="result_Window" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Ui_result_Window" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -231,9 +138,9 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="OXY" />
+      <module name="new_OXY" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/result_Window.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ui_result_Window.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,27 +156,25 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="OXY" />
+      <module name="new_OXY" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlconnection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Ui_OXY" />
-      <item index="1" class="java.lang.String" itemvalue="Python.OXY" />
-      <item index="2" class="java.lang.String" itemvalue="Python.add_moreMessage" />
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.Ui_result_Window" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Ui_PatientInfo" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Ui_OXY" />
       <item index="3" class="java.lang.String" itemvalue="Python.sqlconnection" />
-      <item index="4" class="java.lang.String" itemvalue="Python.result_Window" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.result_Window" />
-        <item index="1" class="java.lang.String" itemvalue="Python.OXY" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sqlconnection" />
-        <item index="3" class="java.lang.String" itemvalue="Python.add_moreMessage" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Ui_OXY" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.sqlconnection" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Ui_PatientInfo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Ui_result_Window" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Ui_OXY" />
       </list>
     </recent_temporary>
   </component>
@@ -278,29 +183,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b0180fa4-9291-45d5-adbf-309c5c2e9b05" name="Default" comment="" />
-      <created>1511515656064</created>
+      <changelist id="6f7a63bc-2e0e-4bbe-8df8-686f643a2150" name="Default" comment="" />
+      <created>1511691761540</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1511515656064</updated>
+      <updated>1511691761540</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="221" y="34" width="1018" height="687" extended-state="1" />
-    <editor active="true" />
+    <frame x="39" y="42" width="1134" height="669" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34031937" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24955277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3402778" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -320,151 +224,5 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ui_OXY.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8085">
-          <caret line="539" column="0" lean-forward="false" selection-start-line="539" selection-start-column="0" selection-end-line="546" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ui_add_moreMessage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2055">
-          <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="144" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OXY.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8175">
-          <caret line="545" column="25" lean-forward="false" selection-start-line="545" selection-start-column="25" selection-end-line="545" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sqlconnection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="115" column="0" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding>
-            <element signature="e#1#40#0" expanded="true" />
-            <marker date="1511619416533" expanded="true" signature="636:739" ph="create table... person" />
-            <marker date="1511619416533" expanded="true" signature="759:807" ph="insert into person... " />
-            <marker date="1511619416533" expanded="true" signature="827:880" ph="insert into person... " />
-            <marker date="1511619416533" expanded="true" signature="900:948" ph="insert into person... " />
-            <marker date="1511619416533" expanded="true" signature="968:1023" ph="insert into person... " />
-            <marker date="1511619416533" expanded="true" signature="1043:1098" ph="insert into person... " />
-            <marker date="1511619416533" expanded="true" signature="1119:1432" ph="create table... offices" />
-            <marker date="1511619416533" expanded="true" signature="1453:1745" ph="insert into offices... " />
-            <marker date="1511619416533" expanded="true" signature="1765:2105" ph="insert into offices... " />
-            <marker date="1511619416533" expanded="true" signature="2125:2466" ph="insert into offices... " />
-            <marker date="1511619416533" expanded="true" signature="2486:2808" ph="insert into offices... " />
-            <marker date="1511619416533" expanded="true" signature="2828:3154" ph="insert into offices... " />
-            <marker date="1511619416533" expanded="true" signature="3174:3467" ph="insert into offices... " />
-            <marker date="1511619416533" expanded="true" signature="3488:3542" ph="create table... images" />
-            <marker date="1511619416533" expanded="true" signature="3562:3609" ph="insert into images... " />
-            <marker date="1511619416533" expanded="true" signature="3629:3680" ph="insert into images... " />
-            <marker date="1511619416533" expanded="true" signature="3700:3750" ph="insert into images... " />
-            <marker date="1511619416533" expanded="true" signature="3770:3819" ph="insert into images... " />
-            <marker date="1511619416533" expanded="true" signature="3839:3888" ph="insert into images... " />
-            <marker date="1511619416533" expanded="true" signature="3908:3958" ph="insert into images... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PatientInfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4500">
-          <caret line="305" column="53" lean-forward="false" selection-start-line="305" selection-start-column="53" selection-end-line="305" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Ui_OXY.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2955">
-          <caret line="197" column="30" lean-forward="true" selection-start-line="197" selection-start-column="30" selection-end-line="197" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/ui_mainwindow.py" />
-    <entry file="file://$PROJECT_DIR$/Ui_add_moreMessage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2055">
-          <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="144" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ui_OXY.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8085">
-          <caret line="539" column="0" lean-forward="false" selection-start-line="539" selection-start-column="0" selection-end-line="546" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/add_moreMessage.py" />
-    <entry file="file://$PROJECT_DIR$/PatientInfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sqlconnection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#1#40#0" expanded="true" />
-            <marker date="1511619416533" expanded="true" signature="636:739" ph="create table... person" />
-            <marker date="1511619416533" expanded="true" signature="759:807" ph="insert into person... " />
-            <marker date="1511619416533" expanded="true" signature="827:880" ph="insert into person... " />
-            <marker date="1511619416533" expanded="true" signature="900:948" ph="insert into person... " />
-            <marker date="1511619416533" expanded="true" signature="968:1023" ph="insert into person... " />
-            <marker date="1511619416533" expanded="true" signature="1043:1098" ph="insert into person... " />
-            <marker date="1511619416533" expanded="true" signature="1119:1432" ph="create table... offices" />
-            <marker date="1511619416533" expanded="true" signature="1453:1745" ph="insert into offices... " />
-            <marker date="1511619416533" expanded="true" signature="1765:2105" ph="insert into offices... " />
-            <marker date="1511619416533" expanded="true" signature="2125:2466" ph="insert into offices... " />
-            <marker date="1511619416533" expanded="true" signature="2486:2808" ph="insert into offices... " />
-            <marker date="1511619416533" expanded="true" signature="2828:3154" ph="insert into offices... " />
-            <marker date="1511619416533" expanded="true" signature="3174:3467" ph="insert into offices... " />
-            <marker date="1511619416533" expanded="true" signature="3488:3542" ph="create table... images" />
-            <marker date="1511619416533" expanded="true" signature="3562:3609" ph="insert into images... " />
-            <marker date="1511619416533" expanded="true" signature="3629:3680" ph="insert into images... " />
-            <marker date="1511619416533" expanded="true" signature="3700:3750" ph="insert into images... " />
-            <marker date="1511619416533" expanded="true" signature="3770:3819" ph="insert into images... " />
-            <marker date="1511619416533" expanded="true" signature="3839:3888" ph="insert into images... " />
-            <marker date="1511619416533" expanded="true" signature="3908:3958" ph="insert into images... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OXY.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result_Window.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

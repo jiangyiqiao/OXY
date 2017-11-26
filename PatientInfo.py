@@ -1,10 +1,8 @@
-#!/usr/bin/env python
 from PyQt5.QtCore import (QAbstractItemModel, QFile, QIODevice,
         QItemSelectionModel, QModelIndex, Qt)
 from PyQt5.QtWidgets import QApplication, QMainWindow
 
-import editabletreemodel_rc
-from ui_mainwindow import Ui_MainWindow
+from Ui_PatientInfo import Ui_MainWindow
 
 
 class TreeItem(object):
@@ -260,7 +258,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
 
         self.setupUi(self)
 
-        headers = ("病人姓名", "医生属性","医生姓名","会诊内容","会诊时间")
+        headers = ("Title", "Description")
 
         file = QFile(':/default.txt')
         file.open(QIODevice.ReadOnly)

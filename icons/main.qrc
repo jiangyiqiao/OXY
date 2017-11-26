@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="main">
+    <file>patient.icns</file>
     <file>eye.jpg</file>
   </qresource>
 </RCC>

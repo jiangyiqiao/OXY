@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Project SYSTEM "Project-5.1.dtd">
 <!-- eric project file for project OXY -->
-<!-- Saved: 2017-11-25, 14:54:43 -->
+<!-- Saved: 2017-11-25, 23:16:18 -->
 <!-- Copyright (C) 2017 ,  -->
 <Project version="5.1">
   <Language>en_US</Language>
@@ -14,11 +14,11 @@
   <Eol index="0"/>
   <Sources>
     <Source>Ui_OXY.py</Source>
-    <Source>Ui_add_moreMessage.py</Source>
+    <Source>Ui_result_Window.py</Source>
   </Sources>
   <Forms>
     <Form>OXY.ui</Form>
-    <Form>add_moreMessage.ui</Form>
+    <Form>result_Window.ui</Form>
   </Forms>
   <Translations/>
   <Resources/>

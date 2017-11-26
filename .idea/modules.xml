@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/OXY.iml" filepath="$PROJECT_DIR$/.idea/OXY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/new_OXY.iml" filepath="$PROJECT_DIR$/.idea/new_OXY.iml" />
     </modules>
   </component>
 </project>
